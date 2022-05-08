@@ -157,12 +157,3 @@ def convert_pdf2docx(input_file: str, output_file: str, pages: Tuple = None):
     result = parse(pdf_file=input_file,
                    docx_with_path=output_file, pages=pages)
     return result
-
-
-
-if __name__ == '__main__':
-    try:
-       pass
-    except:
-        print('Mistake!')
-
