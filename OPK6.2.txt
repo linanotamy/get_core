@@ -1,11 +1,8 @@
 mysql
-windows
-forms
-acсess
-microsoft
-office
-visual
-studio
+windows forms
+microsoft acсess
+microsoft office
+visual studio
 vba
 sql
 pascal
